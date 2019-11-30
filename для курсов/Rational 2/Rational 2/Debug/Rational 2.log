@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\georg.home-sergey\desktop\для курсов\rational 2\rational 2\source.cpp(54): warning C4715: Rational::Numerator: значение возвращается не при всех путях выполнения
+c:\users\georg.home-sergey\desktop\для курсов\rational 2\rational 2\source.cpp(65): warning C4715: Rational::Denominator: значение возвращается не при всех путях выполнения
+  Rational 2.vcxproj -> C:\Users\georg.HOME-SERGEY\Desktop\для курсов\Rational 2\Debug\Rational 2.exe

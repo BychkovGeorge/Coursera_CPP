@@ -1,0 +1,19 @@
+﻿  Source.cpp
+c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(51): error C2664: "LectureTitle::LectureTitle(LectureTitle &&)": невозможно преобразовать аргумент 1 из "const char [4]" в "Specialization"
+  c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(51): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(53): error C2374: title: переопределение; множественная инициализация
+  c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(51): note:  см. объявление "title"
+c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(55): error C2374: title: переопределение; множественная инициализация
+  c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(51): note:  см. объявление "title"
+c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(55): error C2440: инициализация: невозможно преобразовать "initializer list" в "LectureTitle"
+  c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(55): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(57): error C2374: title: переопределение; множественная инициализация
+  c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(51): note:  см. объявление "title"
+c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(59): error C2374: title: переопределение; множественная инициализация
+  c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(51): note:  см. объявление "title"
+c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(59): error C2664: "LectureTitle::LectureTitle(LectureTitle &&)": невозможно преобразовать аргумент 1 из "Course" в "Specialization"
+  c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(63): note: Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(65): error C2374: title: переопределение; множественная инициализация
+  c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(51): note:  см. объявление "title"
+c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(65): error C2664: "LectureTitle::LectureTitle(LectureTitle &&)": невозможно преобразовать аргумент 2 из "Week" в "Course"
+  c:\users\georg.home-sergey\desktop\для курсов\lecture title\lecture title\source.cpp(69): note: Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен

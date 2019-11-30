@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\georg.home-sergey\desktop\для курсов\final\final\source.cpp(151): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\georg.home-sergey\desktop\для курсов\final\final\source.cpp(167): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\georg.home-sergey\desktop\для курсов\final\final\source.cpp(189): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\georg.home-sergey\desktop\для курсов\final\final\source.cpp(199): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\georg.home-sergey\desktop\для курсов\final\final\source.cpp(108): warning C4715: operator<: значение возвращается не при всех путях выполнения
+  final.vcxproj -> C:\Users\georg.HOME-SERGEY\Desktop\для курсов\final\Debug\final.exe

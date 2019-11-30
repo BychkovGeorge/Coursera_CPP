@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\georg.home-sergey\desktop\для курсов\exeptions rat\exeptions rat\source.cpp(62): warning C4715: Rational::Numerator: значение возвращается не при всех путях выполнения
+c:\users\georg.home-sergey\desktop\для курсов\exeptions rat\exeptions rat\source.cpp(73): warning C4715: Rational::Denominator: значение возвращается не при всех путях выполнения
+  exeptions rat.vcxproj -> C:\Users\georg.HOME-SERGEY\Desktop\для курсов\exeptions rat\Debug\exeptions rat.exe

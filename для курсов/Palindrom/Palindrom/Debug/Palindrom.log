@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\georg.home-sergey\desktop\для курсов\palindrom\palindrom\source.cpp(7): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\georg.home-sergey\desktop\для курсов\palindrom\palindrom\source.cpp(17): warning C4018: >=: несоответствие типов со знаком и без знака
+  Palindrom.vcxproj -> C:\Users\georg.HOME-SERGEY\Desktop\для курсов\Palindrom\Debug\Palindrom.exe
